@@ -30,7 +30,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
+blog_name: Paul Blog
 blog_description: a simple whitespace theme for academics
 
 # Pagination

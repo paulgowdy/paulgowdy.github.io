@@ -6,7 +6,7 @@ description: <a href="https://github.com/paulgowdy">machine learning & medicine<
 
 profile:
   align: right
-  image: pg_taj.JPG
+  image: pg_taj.jpeg
 
 news: false
 social: false

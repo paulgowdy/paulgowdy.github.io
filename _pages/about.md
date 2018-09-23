@@ -2,11 +2,11 @@
 layout: about
 permalink: /
 title: <strong>Paul</strong> Gamble
-description: machine learning & medicine, https://github.com/paulgowdy
+description: <a href="https://github.com/paulgowdy">machine learning & medicine</a>
 
 profile:
   align: right
-  image: IMG_1584_rot.JPG
+  image: IMG_1584.JPG
 
 news: false
 social: false

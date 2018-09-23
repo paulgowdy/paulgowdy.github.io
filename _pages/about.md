@@ -12,7 +12,7 @@ news: false
 social: false
 ---
 
-I’m a data scientist at <a href="https://www.lab41.org/">Lab 41</a>, where I do machine learning research on problems that are of interest to US intelligence agencies.
+I’m a data scientist at <a href="https://www.lab41.org/">Lab 41</a>, where I do machine learning research on problems of interest to US intelligence agencies.
 
 My current work is focused on biomedical applications: using homomorphic encryption for secure multiparty queries of privately held genomic databases, machine learning for the detection and functional characterization of synthetic DNA, and studying the potential for information leakage from models trained on sensitive medical data. 
 

@@ -2,11 +2,11 @@
 layout: about
 permalink: /
 title: <strong>Paul</strong> Gamble
-description: <a href="">In-Q-Tel</a>. Address. Contacts. Moto. Etc.
+description: machine learning & medicine, https://github.com/paulgowdy
 
 profile:
   align: right
-  image: IMG_1584.JPG
+  image: IMG_1584_rot.JPG
 
 news: false
 social: false
